@@ -18,10 +18,6 @@ Clonar projeto do github
 ``` Bash
 git clone https://github.com/Fellipe-Barradas/acre_servicos.git
 ```
-Instalandos as depêndencias
-``` Bash
-pip install -r requirements.txt
-```
 ## ☕ Usando acre_servicos
 
 Para usar web scrapper, siga estas etapas:
